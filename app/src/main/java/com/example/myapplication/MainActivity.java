@@ -23,8 +23,8 @@ public class MainActivity extends AppCompatActivity {
         //我是dev1
         //dev1开发第1天
         //dev1开发第2天
-        //dev1开发第三天
-        //dev1开发第四天
+        //dev1开发第3天
+        //dev1开发第4天
         //dev1开发第5天
         //dev1开发第6天
         //dev1开发第7天
