@@ -21,7 +21,6 @@ public class MainActivity extends AppCompatActivity {
         //我是dev1
         //dev1开发第一天
         //dev1开发第二天
-        //我是dev1
         //dev1开发第三天
         //dev1开发第四天
 
