@@ -10,26 +10,21 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        //aaaaa
-        //bbbbb
-        //ccccc
         //我是master
         //我是dev
-        //dev开发第一天
-        //dev开发第二天
-        //dev开发第三天
-        //dev开发第四天
+        //dev开发第1天
+        //dev开发第2天
+        //dev开发第3天
+        //dev开发第4天
         //dev开发第5天
         //dev开发第6天
         //我是dev1
-        //dev1开发第一天
-        //dev1开发第二天
-        //dev1开发第三天
-        //dev1开发第四天
+        //dev1开发第1天
+        //dev1开发第2天
+        //dev1开发第3天
+        //dev1开发第4天
         //dev1开发第5天
         //dev1开发第6天
-
-
 
     }
 }
