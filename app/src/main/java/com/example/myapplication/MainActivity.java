@@ -12,8 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //我是master
         //我是dev
-        //dev开发第1天
-        //dev开发第2天
+
         //dev开发第3天
         //dev开发第4天
         //dev开发第5天
@@ -23,9 +22,9 @@ public class MainActivity extends AppCompatActivity {
         //dev开发第9天
         //dev开发第10天
         //dev开发第11天
+        //dev开发第12天
         //我是dev1
-        //dev1开发第1天
-        //dev1开发第2天
+
         //dev1开发第3天
         //dev1开发第4天
         //dev1开发第5天
