@@ -15,8 +15,8 @@ public class MainActivity extends AppCompatActivity {
 
         //dev开发第40天
         //dev开发第50天
-        //dev开发第6天
-        //dev开发第7天
+        //dev开发第60天
+        //dev开发第70天
         //dev开发第8天
         //dev开发第9天
         //dev开发第10天
