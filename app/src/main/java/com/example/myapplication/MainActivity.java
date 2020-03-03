@@ -13,7 +13,6 @@ public class MainActivity extends AppCompatActivity {
         //我是master
         //我是dev
 
-        //dev开发第3天
         //dev开发第4天
         //dev开发第5天
         //dev开发第6天
@@ -25,7 +24,6 @@ public class MainActivity extends AppCompatActivity {
         //dev开发第12天
         //我是dev1
 
-        //dev1开发第3天
         //dev1开发第4天
         //dev1开发第5天
         //dev1开发第6天
